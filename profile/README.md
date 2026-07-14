@@ -1,15 +1,4 @@
 <div align="center">
-  <img
-  src="banner.png"
-  alt="Velnora Studio Banner"
-  width="450"
-  height="300"
-  style="
-    object-fit: cover;
-    object-position: bottom;
-    border-radius: 10px;
-  "
-/>
 
   # 🌌 Velnora Studio
   ### We Turn Brands Into Industry Leaders
