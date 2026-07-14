@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/banner.png" alt="Velnora Studio Banner" width="100%" style="border-radius: 10px;" />
+  <img src="banner.png" alt="Velnora Studio Banner" width="100%" style="border-radius: 10px;" />
 
   # 🌌 Velnora Studio
   ### We Turn Brands Into Industry Leaders
