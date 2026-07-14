@@ -1,35 +1,56 @@
-# 🌌 Velnora Studio — We Turn Brands Into Industry Leaders
+<div align="center">
+  <img src="profile/banner.png" alt="Velnora Studio Banner" width="100%" style="border-radius: 10px;" />
 
-Welcome to **Velnora Studio**, a creative digital agency that builds beautiful, high-performance websites and handles marketing to grow your business. 
+  # 🌌 Velnora Studio
+  ### We Turn Brands Into Industry Leaders
 
-We help brands scale using stunning design, fast code, and data-driven marketing strategies.
-
----
-
-## ⚡ What We Do (Our Services)
-
-We partner with businesses to deliver results in these key areas:
-
-*   **💻 Web Design & Development:** We build custom, lightning-fast websites (using modern tools like React and Next.js) that look incredible and convert visitors into clients.
-*   **🔍 Search Engine Optimization (SEO):** We optimize your site so it ranks higher on Google, bringing organic, free traffic directly to your business.
-*   **📣 Paid Media & Advertising:** We plan and run target campaigns on Google, Facebook, and Instagram to maximize your return on ad spend.
-*   **🎨 Branding & Creative Assets:** We design logos, visuals, and marketing assets that represent your brand professionally.
+  [![Website](https://img.shields.io/badge/Website-velnora.studio-7E22CE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.velnora.studio)
+  [![Email](https://img.shields.io/badge/Email-contact%40velnora.studio-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@velnora.studio)
+  [![Portal](https://img.shields.io/badge/Client_Portal-Go_to_App-2563EB?style=for-the-badge&logo=rocket&logoColor=white)](https://velnora-frontend.onrender.com)
+</div>
 
 ---
 
-## 🚀 How We Work (Our Client Portal)
-
-When you work with Velnora, you get access to our custom **Client Portal** so you are never left in the dark:
-- **Track Progress:** Watch our team complete your project tasks phase-by-phase in real-time.
-- **Easy File Sharing:** Upload your assets, photos, or documents, and approve designs in one click.
-- **Manage Bills:** View and pay project invoices directly from your personal client dashboard.
+Welcome to **Velnora Studio**, a premium creative digital agency. We combine cutting-edge web development, high-end visual design, and data-driven marketing to help modern brands scale and win.
 
 ---
 
-## 📬 Work With Us
+## ⚡ Our Core Services
 
-Ready to grow your brand or request a project? We would love to hear from you!
+We partner with high-growth businesses to deliver top-tier results:
 
-*   **🌐 Visit Our Website:** [https://www.velnora.studio](https://www.velnora.studio)
-*   **📊 Get a Free Audit:** Fill out the contact form on our website to get a free analysis of your current website and marketing.
-*   **✉️ Email Us Directly:** [contact@velnora.studio](mailto:contact@velnora.studio)
+| Service | Description | Highlights |
+| :--- | :--- | :--- |
+| **💻 Web Development** | High-performance websites built with React and Next.js. | Fast load speeds, responsive layouts, SEO-ready code. |
+| **🔍 Search Engine Optimization** | Driving organic sales and qualified leads via rank optimizations. | Keyphrase strategy, technical auditing, structural content. |
+| **📣 Paid Media & Ads** | High-ROI marketing campaigns on Google, Facebook, and Instagram. | Optimized ad spend, visual design, custom audiences. |
+| **🎨 Branding & Assets** | Custom logos, branding systems, and social media kits. | Vector files, typography sets, style guides. |
+
+---
+
+## 🚀 The Velnora Experience (Client Portal)
+
+When you work with us, you don't get lost in emails. You get your own private account in our **Client Portal** where you can:
+
+*   **📅 Track Tasks:** See our current tasks, milestones, and project phases in real-time.
+*   **📂 Share Assets:** Upload files, mockups, or documents directly into your secure workspace.
+*   **💬 Quick Approvals:** View drafts and approve or request changes with one click.
+*   **💳 Manage Invoicing:** Review past bills and track your project payments seamlessly.
+
+---
+
+## 🛠️ Our Tech Ecosystem
+We build with the fastest, most reliable tools:
+`Next.js 16` • `React 19` • `Tailwind CSS v4` • `Framer Motion` • `Go (Golang)` • `PostgreSQL` • `Docker` • `ArgoCD`
+
+---
+
+## 📬 Start Your Project
+
+Ready to work with us? Let's build something amazing together.
+
+> [!TIP]
+> ### 📊 Get a Free Website & Marketing Audit
+> We will analyze your current site speed, Google rankings, and ad strategy for free. 
+>
+> 👉 **[Request Your Free Audit on Our Website](https://www.velnora.studio)** or email us at **[contact@velnora.studio](mailto:contact@velnora.studio)**.
